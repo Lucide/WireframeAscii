@@ -1,0 +1,10 @@
+
+  ╭─────────────────────────────────────────────╮
+  │               CLEVER LAUNCHER               │
+  ├──────────────────┐ⓛⓤⓒⓘⓓⓔ ┌──────────────────┤
+  │▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀│
+  │                   please,                   │
+  │ in order to display the program correctly,  │
+  │   maximize the terminal or go fullscreen    │
+  │          and set the text size to 5         │
+  └─────────────────────────────────────────────┘

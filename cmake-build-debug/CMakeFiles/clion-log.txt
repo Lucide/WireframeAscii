@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/d/Users/Nemo/OneDrive-shared/c/WireframeAscii
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/d/Users/Nemo/OneDrive-shared/c/WireframeAscii/cmake-build-debug

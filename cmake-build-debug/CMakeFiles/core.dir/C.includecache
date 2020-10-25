@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Users/Nemo/OneDrive-shared/c/WireframeAscii/73.c
+stdio.h
+-
+stdlib.h
+-
+termios.h
+-
+unistd.h
+-
+time.h
+-
+math.h
+-
+
