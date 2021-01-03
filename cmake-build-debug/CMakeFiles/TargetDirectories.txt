@@ -1,4 +1,0 @@
-/mnt/d/Users/Nemo/OneDrive-shared/c/WireframeAscii/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/d/Users/Nemo/OneDrive-shared/c/WireframeAscii/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/d/Users/Nemo/OneDrive-shared/c/WireframeAscii/cmake-build-debug/CMakeFiles/launcher.dir
-/mnt/d/Users/Nemo/OneDrive-shared/c/WireframeAscii/cmake-build-debug/CMakeFiles/core.dir
